@@ -1,0 +1,2 @@
+# -Customer-Feedback-Management-Text-Analysis-Python-
+This project demonstrates a menu-driven customer feedback management system implemented in Python, focusing on user input handling, text cleaning, word analysis, and summary insights. The program stores feedback in a structured dictionary format and performs basic text preprocessing and analytical operations without using advanced NLP libraries.
